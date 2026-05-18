@@ -1,2 +1,29 @@
-# Creditcard_fruad_detection
-Built a Credit Card Fraud Detection system using Machine Learning and Logistic Regression to identify fraudulent transactions. Performed data preprocessing, visualization, model training, and evaluation using Python, Pandas, Scikit-learn, and Seaborn.
+**Credit Card Fraud Detection**
+
+This project uses Machine Learning to detect fraudulent credit card transactions using Logistic Regression.
+
+**Features**
+Data preprocessing
+Fraud vs genuine transaction analysis
+Data visualization
+Model training and testing
+Accuracy evaluation
+Confusion matrix visualization
+
+**Technologies Used**
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Machine Learning Algorithm
+Logistic Regression
+
+**The model predicts whether a transaction is:**
+
+Genuine (0)
+Fraudulent (1)
+Dataset
+
+Credit Card Fraud Detection dataset containing transaction details and class labels.
